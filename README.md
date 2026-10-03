@@ -13,8 +13,8 @@ BEGINNING:
 TO RUN:
 
 4. Open 2 terminals.
-5. In both terminals navigate to the folder you downloaded "Loanscope_assign"
-6. In the 1st run these commands:
+5. In both terminals navigate to the folder you downloaded, "Loanscope_assign"
+6. In the 1st terminal, run these commands:
    ```
    cd backend
    node server
